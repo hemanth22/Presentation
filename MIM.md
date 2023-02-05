@@ -2,7 +2,6 @@
 
 |Type|Event|Information|
 |---|---|---|
-
 |:warning:|__Incident__|
 - [x] Major incident reported by the operations
 - [x] Investigation is in progress|
